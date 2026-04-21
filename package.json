@@ -1,0 +1,14 @@
+{
+  "name": "linai-docs",
+  "version": "0.1.0",
+  "private": true,
+  "description": "linAI 中转站文档站点",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^2.0.0-alpha.17"
+  }
+}
